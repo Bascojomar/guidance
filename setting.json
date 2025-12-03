@@ -1,0 +1,27 @@
+{
+    "statuses": [
+      {
+        "id": 1,
+        "status": "Pending",
+        "description": "The task or project has been initiated but no further action has been taken yet."
+      },
+      {
+        "id": 2,
+        "status": "Approved",
+        "description": "The task or project is currently in progress."
+      },
+      {
+        "id": 3,
+        "status": "Declined",
+        "description": "The task or project has been completed and delivered or made available to the intended audience or recipients."
+      },
+      {
+        "id": 3,
+        "status": "Completed",
+        "description": "The task or project has been completed and delivered or made available to the intended audience or recipients."
+      }
+    ]
+  }
+
+
+  
